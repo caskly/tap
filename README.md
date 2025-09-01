@@ -7,6 +7,6 @@ https://caskly.app for more information
 ## Installation
 
 ```bash
-brew tap caskly/caskly-tap
+brew tap caskly/tap https://github.com/caskly/caskly-tap.git
 brew install --cask caskly@beta
 ```
