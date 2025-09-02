@@ -1,6 +1,6 @@
 cask "caskly@beta" do
-  version "1.0.0.BETA,838"
-  sha256 "591899cd7edf3d6a634a7ca1fb2f95620dcaab606047bcf816c05b277090e3d9"
+  version "1.0.0.BETA,845"
+  sha256 "e76349d2f684c68ff27b6810a06853b158ddc31c5253d526eae2b9df7b7cc423"
 
   url "https://caskly.app/download/Caskly.zip"
   name "Caskly"
